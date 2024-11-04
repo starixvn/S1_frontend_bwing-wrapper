@@ -1,0 +1,14 @@
+{
+  "common": {
+    "loading": "Đang khởi động ứng dụng"
+  },
+  "splashScreen": {
+    "dear": "Quý khách hàng thân mến,",
+    "note": "Nếu quý khách gặp phải sự cố về ứng dụng hoặc không truy cập được ứng dụng, vui lòng cài đặt lại hoặc có thể liên hệ với bộ phận Hỗ trợ trực tuyến 24/7 của chúng tôi. Cảm ơn quý khách!"
+  },
+  "forceDownload": {
+    "download": "Tải về",
+    "title": "Phiên bản mới có sẵn v%{version}"
+  },
+  "systemError": "Rất tiếc! Đã xảy ra lỗi, vui lòng thử lại."
+}

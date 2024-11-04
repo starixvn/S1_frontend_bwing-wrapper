@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bwing Staging</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">iwVtnwGE3D2r9COri3kCnfWrqbwd_WtJFk5x1</string>
+</resources>

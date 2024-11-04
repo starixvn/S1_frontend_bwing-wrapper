@@ -1,0 +1,14 @@
+{
+  "common": {
+    "loading": "Loading App"
+  },
+  "splashScreen": {
+    "dear": "Dear valued players,",
+    "note": "Should you experience App crashes or fail to access App, kindly reinstall the App or you may contact our 24/7 Online Support. Thank you!"
+  },
+  "forceDownload": {
+    "title": "New Version Available v%{version}",
+    "download": "Download"
+  },
+  "systemError": "Oops! Something wrong, please try again."
+}

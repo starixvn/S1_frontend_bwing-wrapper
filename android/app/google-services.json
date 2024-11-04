@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "680457189434",
+    "project_id": "bwing-new",
+    "storage_bucket": "bwing-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680457189434:android:d192087567abb4a9b49d03",
+        "android_client_info": {
+          "package_name": "com.bwing.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680457189434-vpnfa4i6c536ddd0tfoqoiouacjv4fde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqchODmZzhLT-3eIK3zRHt_V3KnnXQ9es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680457189434-vpnfa4i6c536ddd0tfoqoiouacjv4fde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680457189434-9f7333vbbfnk57rvedb1bpv05756dcoj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bwing.apps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
